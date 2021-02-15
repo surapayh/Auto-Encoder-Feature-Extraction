@@ -3,3 +3,4 @@ Autoencoders are a class of [Unsupervised Learning](https://en.wikipedia.org/wik
 # Overview
 Here, the vanilla version of autoencoder is implemented with a single hidden layer of 150 neurons. Regularization techniques such as Sparseness and Weight decay are implemented forcing the data to not overfit and learn meaningful representations of the input data. The learned features are then transferred to a feed forward network and compared the classification quality from a completely pre-trained feed forward network. The network with transferred features performed better.
 # Features learnt by the Hidden Neurons
+![features_learnt](https://user-images.githubusercontent.com/48583202/107948026-4714fa00-6f61-11eb-8ccd-65ccf2b7d25b.jpg)
